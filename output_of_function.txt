@@ -1,0 +1,13 @@
+Total shares held by yearly investor:  851.9668172216104
+Total shares held by monthly investor:  803.6001892839496
+Portfolio Values Ratio (yearly/monthly):  1.0601874272587692
+ 
+SP500 Investor started investing in ...... 2014
+QQQ Investor started investing in ........ 2014
+HIBL Investor started investing in ....... 2020
+BTC Investor started investing in ........ 2015
+Investor ratios = total portfolio value of yearly / monthly
+SP500 investor ratio ............ 1.0417459886451395
+QQQ investor ratio .............. 1.174122960008631
+HIBL investor ratio ............. 0.7757455805467494
+BTC investor ratio .............. 1.0408948892014118
